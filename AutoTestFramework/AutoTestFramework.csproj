@@ -67,6 +67,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestScenarios\LoginInvalidPassword.cs" />
     <Compile Include="TestScenarios\LoginInvalidUsername.cs" />
+    <Compile Include="TestScenarios\TestNav.cs" />
+    <Compile Include="TestScenarios\TestValidLogin.cs" />
     <Compile Include="UIElements\HomePage.cs" />
     <Compile Include="UIElements\LoginScenarioPost.cs" />
     <Compile Include="UIElements\Menu.cs" />
